@@ -7,15 +7,15 @@
 
 ### Blog posts
 
-Week 1 : [What is the biggest challenge with teamwork?]() 
+Week 1 : [What is the biggest challenge with teamwork?](https://medium.com/@e.roberts/what-is-the-biggest-challenge-with-teamwork-1e0e745fef27) 
 
-Week 2: [What are some of the current trends around contemporary branding? And why are they trends?]() 
+Week 2: [What are some of the current trends around contemporary branding? And why are they trends?](https://medium.com/@e.roberts/what-are-some-of-the-current-trends-around-contemporary-branding-887eee6300b) 
 
-Week 2: [What are some of the techniques to be persuasive when presenting?]() 
+Week 2: [What are some of the techniques to be persuasive when presenting?](https://medium.com/@e.roberts/what-are-some-of-the-techniques-to-be-persuasive-when-presenting-118a7ea1a288) 
 
-Week 4: [Reflect on your participation in this project so far and share your biggest learning.]() 
+Week 4: [Reflect on your participation in this project so far and share your biggest learning.](https://medium.com/@e.roberts/reflect-on-your-participation-in-this-project-so-far-and-share-your-biggest-learning-8638b9bd8499) 
 
-Week 5: [Reflect on how you have become a better team worker over the last couple of weeks.]()
+Week 5: [Reflect on how you have become a better team worker over the last couple of weeks.](https://medium.com/@e.roberts/reflect-on-how-you-have-become-a-better-team-worker-over-the-last-couple-of-weeks-9d99527bf4ed)
 
 Week 6: [What are your strength and weaknesses in relation to completing this project?]() 
 
