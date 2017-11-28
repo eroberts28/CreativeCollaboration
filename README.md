@@ -1,6 +1,12 @@
 # CreativeCollaboration
+ 
+**Name:** Emma Roberts
 
-### Emma Roberts - 96453816
+**Student No:** 96453816
+
+**Course:** BA (Hons) Web Media, Level 2
+
+**Unit Code:** WEB14202
 
 ### Brief over the project
 
