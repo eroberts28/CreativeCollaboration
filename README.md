@@ -36,7 +36,7 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 (Description)
 
-- [Google Drive] (https://drive.google.com/open?id=0B0tiDQ6Tr4gTQnJjb1d5RDFtWE0)
+- [Google Drive](https://drive.google.com/open?id=0B0tiDQ6Tr4gTQnJjb1d5RDFtWE0)
 
 - [Research](https://drive.google.com/open?id=1LZj8ygEYNuoT5PHc7kQNhaNgRkRmL57s)
 
