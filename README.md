@@ -23,13 +23,13 @@ Week 4: [Reflect on your participation in this project so far and share your big
 
 Week 5: [Reflect on how you have become a better team worker over the last couple of weeks.](https://medium.com/@e.roberts/reflect-on-how-you-have-become-a-better-team-worker-over-the-last-couple-of-weeks-9d99527bf4ed)
 
-Week 6: [What are your strength and weaknesses in relation to completing this project?]() 
+Week 6: [What are your strength and weaknesses in relation to completing this project?](https://medium.com/@e.roberts/what-are-your-strengths-and-weaknesses-in-relation-to-completing-this-project-de38f4bd7420) 
 
-Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.]()
+Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.](https://medium.com/@e.roberts/how-are-you-going-to-use-seo-to-extend-the-reach-of-your-image-library-give-some-examples-b454f7df3c12)
 
-Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.]()
+Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.](https://medium.com/@e.roberts/explore-good-examples-of-good-social-media-marketing-b08ab58fe3c)
 
-Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.]()
+Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.](https://medium.com/@e.roberts/reflect-on-your-blog-in-week-6-and-write-about-how-your-approach-has-changed-since-then-b02324518cca)
 
 
 ### Change By Design
