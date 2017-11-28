@@ -74,12 +74,13 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 - [Logo](https://drive.google.com/open?id=1zcxd5qwlSQcjhdKNwcYWHtK-5rG9gqRr)
 
+- [Social Media](https://www.instagram.com/glaze.uk/)
+
 - [Social Media advertisements]()
 
 - [Wireframes](https://drive.google.com/drive/folders/1mHDkgUhlduRHTEFANR5nO7FL0AvRH7cT)
 
 - [Website demo]()
-
 
 - [Formative Presentation](https://docs.google.com/presentation/d/1I-ok4HwO-grdVfCTglygxRfLl3mZdtToyrU0kF3p9eg/edit?usp=sharing)
 
