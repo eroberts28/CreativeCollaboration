@@ -58,20 +58,22 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 (Description)
 
-- [Website]()
+- [Website](http://glaze.raveweb.net/)
 
-- [Images]()
+- [Images/Google Drive](https://drive.google.com/open?id=0B0tiDQ6Tr4gTMDdOc0d3QjhIWmM)
 
-- [Research]()
+- [Research](https://docs.google.com/document/d/14KtdlGCu4eMeqcJSh3-PxgZzfMj5IiFehTX_YG4cDmM/edit?usp=sharing)
 
-- [Target audience/Personas]()
+- [Moodboard](https://docs.google.com/presentation/d/1pA46fLpSM5ZPJxRavi7GjCo8iufyd3qvO08t1RXXicQ/edit?usp=sharing)
 
-- [Competitor Research]()
+- [Target audience/Personas](https://docs.google.com/document/d/1xXXKt18htCmXpXLPJmy9iIPoiK4vaMD-VrxxMWLFPhQ/edit?usp=sharing)
 
-- [Logo]()
+- [Competitor Research](https://docs.google.com/document/d/19Kj5DEnkrV99RWar7nczfNZCzwhDEpD84IptM5q96yc/edit?usp=sharing)
 
-- [Wireframes]()
+- [Logo](https://drive.google.com/open?id=1zcxd5qwlSQcjhdKNwcYWHtK-5rG9gqRr)
 
-- [Formative Presentation]()
+- [Wireframes](https://drive.google.com/drive/folders/1mHDkgUhlduRHTEFANR5nO7FL0AvRH7cT)
+
+- [Formative Presentation](https://docs.google.com/presentation/d/1I-ok4HwO-grdVfCTglygxRfLl3mZdtToyrU0kF3p9eg/edit?usp=sharing)
 
 - [Summative Presentation]()
