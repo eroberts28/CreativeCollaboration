@@ -88,4 +88,6 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 #### Backend edit
 
 ![css 1](https://user-images.githubusercontent.com/22593770/33335533-3ffecdbc-d465-11e7-8087-f563cc264ca7.png)
+![css2](https://user-images.githubusercontent.com/22593770/33335566-59dfd122-d465-11e7-9e6f-7e9ffe12638d.png)
+
 
