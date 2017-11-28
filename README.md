@@ -87,6 +87,8 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 #### Backend edit
 
+The main issue I had with the theme was the fact that the text or symbol within a button would not be centre and usually quite high up. This looked very unappealing and I wanted to change it, which I did through the css. Also, the text boxes in the UX building also couldn't be edited in terms of size, so I took to the css to change it.
+
 ![css 1](https://user-images.githubusercontent.com/22593770/33335533-3ffecdbc-d465-11e7-8087-f563cc264ca7.png)
 ![css2](https://user-images.githubusercontent.com/22593770/33335566-59dfd122-d465-11e7-9e6f-7e9ffe12638d.png)
 
