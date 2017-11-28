@@ -62,6 +62,8 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 - [Images/Google Drive](https://drive.google.com/open?id=0B0tiDQ6Tr4gTMDdOc0d3QjhIWmM)
 
+- [Watermark images](https://drive.google.com/open?id=1IvGtE02m_6r9xUZpRK9SFRY9PB8iH2wo)
+
 - [Research](https://docs.google.com/document/d/14KtdlGCu4eMeqcJSh3-PxgZzfMj5IiFehTX_YG4cDmM/edit?usp=sharing)
 
 - [Moodboard](https://docs.google.com/presentation/d/1pA46fLpSM5ZPJxRavi7GjCo8iufyd3qvO08t1RXXicQ/edit?usp=sharing)
