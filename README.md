@@ -36,15 +36,17 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 (Description)
 
-- [Research]()
+- [Google Drive] (https://drive.google.com/open?id=0B0tiDQ6Tr4gTQnJjb1d5RDFtWE0)
 
-- [Moodboards]()
+- [Research](https://drive.google.com/open?id=1LZj8ygEYNuoT5PHc7kQNhaNgRkRmL57s)
 
-- [Promotional Material]()
+- [Social Media](https://www.instagram.com/___easyjet/)
 
-- [Logo]()
+- [Promotional Material](https://drive.google.com/open?id=1bFNNsJZFzJs48fWcSJ2I9s1FSnvFwqZ7)
 
-- [Web & App Wireframes]()
+- [Logo](https://drive.google.com/open?id=1wljkaPcOtnLO-oTBvYcow8cXfCCxL0hf)
+
+- [Web & App Wireframes](https://drive.google.com/open?id=11k_TRqod3gyyK7UBMOUdc_9YimdK0snS)
 
 - [Formative Presentation](https://drive.google.com/file/d/1yGtqgxu4G52vSk4TqVwpKVaM_vmAcF2u/view?usp=sharing)
 
