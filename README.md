@@ -76,7 +76,7 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 - [Social Media](https://www.instagram.com/glaze.uk/)
 
-- [Social Media advertisements]()
+- [Social Media advertisements](https://drive.google.com/open?id=1SIUJ5oincK--2W6AzThw0G6E_u0XB-zV)
 
 - [Wireframes](https://drive.google.com/drive/folders/1mHDkgUhlduRHTEFANR5nO7FL0AvRH7cT)
 
