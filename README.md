@@ -37,6 +37,8 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 This project let us explore our creativity. Performing a 360 rebrand of a company means no limits. From the colour scheme and logo to the business model they have, we got to change it however we liked. Working with the photographers made this project a lot more personal as the images were provided by them and not stock photography.
 
+![logo](https://user-images.githubusercontent.com/22593770/33346408-8a876098-d487-11e7-8ae9-398859e17ba8.png)
+
 - [Google Drive](https://drive.google.com/open?id=0B0tiDQ6Tr4gTQnJjb1d5RDFtWE0)
 
 - [Research](https://drive.google.com/open?id=1LZj8ygEYNuoT5PHc7kQNhaNgRkRmL57s)
@@ -59,7 +61,7 @@ This project let us explore our creativity. Performing a 360 rebrand of a compan
 
 In our teams we were given the brief to create a new, innovative picture library that focuses on one topic. Our group decided to go with a dessert/pastries library. This theme is fairly underrepresented with not many libraries portraying it. Therefore we found our gap in the market that we felt with our agency USP could be quite successful. 
 
-![logo](https://user-images.githubusercontent.com/22593770/33346408-8a876098-d487-11e7-8ae9-398859e17ba8.png)
+![logo](https://user-images.githubusercontent.com/22593770/33346578-1e945ab6-d488-11e7-8132-a3b15d0790e3.png)
 
 - [Website](http://glaze.raveweb.net/)
 
