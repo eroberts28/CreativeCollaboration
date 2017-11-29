@@ -89,7 +89,7 @@ In our teams we were given the brief to create a new, innovative picture library
 
 - [Formative Presentation](https://docs.google.com/presentation/d/1I-ok4HwO-grdVfCTglygxRfLl3mZdtToyrU0kF3p9eg/edit?usp=sharing)
 
-- [Summative Presentation]()
+- [Summative Presentation](https://docs.google.com/presentation/d/14soEgwUHnxVQzRULjpxYSHqkBF4b7iBrNK4JRiG9KoU/edit#slide=id.g2b0dfa275a_0_44)
 
 #### Backend edit
 
